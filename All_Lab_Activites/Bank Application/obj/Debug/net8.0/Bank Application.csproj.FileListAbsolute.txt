@@ -1,0 +1,30 @@
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.exe
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.deps.json
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.runtimeconfig.json
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.dll
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.pdb
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.AssemblyInfoInputs.cache
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.AssemblyInfo.cs
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.csproj.CoreCompileInputs.cache
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.sourcelink.json
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.dll
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\refint\Bank Application.dll
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.pdb
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.genruntimeconfig.cache
+Z:\C#\C-Lab-Activity\Bank Application\Bank Application\obj\Debug\net8.0\ref\Bank Application.dll
+Z:\C#\Banking Application\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.exe
+Z:\C#\Banking Application\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.deps.json
+Z:\C#\Banking Application\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.runtimeconfig.json
+Z:\C#\Banking Application\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.dll
+Z:\C#\Banking Application\Bank Application\Bank Application\bin\Debug\net8.0\Bank Application.pdb
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.GeneratedMSBuildEditorConfig.editorconfig
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.AssemblyInfoInputs.cache
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.AssemblyInfo.cs
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.csproj.CoreCompileInputs.cache
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.sourcelink.json
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.dll
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\refint\Bank Application.dll
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.pdb
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\Bank Application.genruntimeconfig.cache
+Z:\C#\Banking Application\Bank Application\Bank Application\obj\Debug\net8.0\ref\Bank Application.dll
